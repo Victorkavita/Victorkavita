@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Victor Kavita 👋
 
-<!--
-**Victorkavita/Victorkavita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student in Kenya who enjoys building useful applications, solving problems, and learning how modern software works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning full-stack web development
+- 💻 Exploring JavaScript, React, Node.js, and SQL
+- 🐧 Working with Linux and Git
+- 🎯 Focused on building real-world projects and becoming a better engineer
+
+### 🛠️ Technologies
+
+**Languages:** JavaScript, HTML, CSS, SQL  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express  
+**Database:** PostgreSQL  
+**Tools:** Git, GitHub, Linux, VS Code
+
+### 🚀 Featured Projects
+
+Projects I'm building and improving:
+
+- **Full-Stack Todo App** — Task management with a backend and database.
+- **Student Management System** — Managing student records with CRUD operations.
+- **Developer Portfolio** — A website showcasing my work and skills.
+
+### 📚 Currently Improving
+
+- Data structures and algorithms
+- REST APIs and database design
+- Software testing and clean code
+- Deployment and application security
+
+### 🤝 Connect With Me
+
+- GitHub: [@Victorkavita](https://github.com/YOUR-USERNAME)
+- LinkedIn: 
+
+---
+
+*Learning, building, and improving one project at a time.*
