@@ -34,8 +34,8 @@ Projects I'm building and improving:
 
 ### 🤝 Connect With Me
 
-- GitHub: [@Victorkavita](https://github.com/YOUR-USERNAME)
-- LinkedIn: 
+- GitHub: [@Victorkavita]()https://github.com/Victorkavita/Victorkavita.git
+- LinkedIn: www.linkedin.com/in/victor-kavita-undefined-04933b2a6
 
 ---
 
